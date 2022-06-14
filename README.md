@@ -12,29 +12,30 @@ Installation and Usage
  - Or run the shell in non-interactive mode: example `echo "pwd" | ./hsh`
 
 Features
- -uses the PATH
- -implements builtins
- -handles command line arguments
- -custom strtok function
- -uses exit status
- -shell continues upon Crtl+C (^C)
- -handles comments (#)
- -handles ;
- -custom getline type function
- -handles && and ||
- -aliases
- -variable replacement
+
+ - uses the PATH
+ - implements builtins
+ - handles command line arguments
+ - custom strtok function
+ - uses exit status
+ - shell continues upon Crtl+C (^C)
+ - handles comments (#)
+ - handles ;
+ - custom getline type function
+ - handles && and ||
+ - aliases
+ - variable replacement
 
 Builtins
- -exit
- -env
- -setenv
- -unsetenv
- -cd
- -help
- -history
+ - exit
+ - env
+ - setenv
+ - unsetenv
+ - cd
+ - help
+ - history
 
 Authors:
-Brian Onyango
-Kiptoo Collins
+* Brian Onyango
+* Kiptoo Collins
 
