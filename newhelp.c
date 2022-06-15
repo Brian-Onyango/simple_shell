@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * new_help - help builtin command
- * @vars: if command matches a builtin name, text file is sent to stdout
+ * @vars: if command matches a builtin name, text file is sent to stdout.
  * Return: 0 if success
  */
 
