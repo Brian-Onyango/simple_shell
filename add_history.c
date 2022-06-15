@@ -42,7 +42,7 @@ void *add_nodeint(history_t **head, char *str)
 
 /**
  * free_listint - free pointers related with malloc
- * @head: The pointer of the list
+ * @head: The pointer of the list.
  *
  * Return: The number of elements in the list
  */
